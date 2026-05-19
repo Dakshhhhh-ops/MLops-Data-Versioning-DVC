@@ -1,0 +1,1 @@
+1. Create mycode.py and add code to it(it will save as a csv file to a new "data" folder)
